@@ -27,6 +27,13 @@ body {
     letter-spacing: 2px;
 }
 
+.profile-case{
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+
+    letter-spacing: 2px;
+}
 .links{
     text-align: center;
     margin-top: 20px ;
